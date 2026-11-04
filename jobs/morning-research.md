@@ -11,9 +11,13 @@
 - A8.net／afb／バリューコマースの新着案件を巡回し、CLAUDE.md §6 の採用条件（承認率70%以上・単価20,000円以上・季節性あり）で判定。
 - 「採用候補」「要確認」をNotion「案件DB」に保存（重複は更新）。
 - `output/research/YYYY-MM-DD.md` にも表で保存。
+- 続けて楽天の物販リサーチ（researcher.md の仕事5）。物販候補は最大5件。
+
+## 1b. 社長の週次メモ
+- `inbox/asp/` に新しいCSV・メモがあれば、公開ページより優先して判定に使う。
 
 ## 2. 下書き（writer → humanizer → editor）
-- 採用候補の上位3件（0で追加タスクがあればそれを優先）について下書きを作り、humanizer → editor の順に通す。
+- 採用候補の上位3件（0で追加タスクがあればそれを優先）と、物販候補の上位2件について下書きを作り、humanizer → editor の順に通す。
 - editor のOKが出たものは `output/approved/` へ。
 
 ## 3. DIYブログ
